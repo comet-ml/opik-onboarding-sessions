@@ -13,7 +13,7 @@ Each item has a `question` and an `answer` field.
 
 ---
 
-## 3 — Configure Optimization Studio
+## 2 — Configure Optimization Studio
 
 Open **Opik UI → Optimization Studio → New Optimization** and fill in the form:
 
@@ -85,7 +85,7 @@ The reference answer is:
 
 ---
 
-## 4 — Run the optimization
+## 3 — Run the optimization
 
 Click **Optimize prompt** and watch the progress chart. The number of trials is managed automatically by the algorithm. Optimization Studio will:
 
@@ -96,7 +96,7 @@ Click **Optimize prompt** and watch the progress chart. The number of trials is 
 
 ---
 
-## 5 — Analyze results
+## 4 — Analyze results
 
 - **Progress chart**: Shows the best score over time — look for a clear upward trend.
 - **Trials tab**: Compare the exact prompt text and score for each trial. Click a trial to see per-item scores and identify which questions the prompt struggles with.
